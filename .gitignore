@@ -1,0 +1,57 @@
+# ====================================================
+# Unity Generado (Temporales y de Caché)
+# ====================================================
+# Estos archivos se regeneran cada vez que abres el proyecto.
+# NO deben subirse.
+
+Library/
+Temp/
+Obj/
+Build/
+UserSettings/
+MemoryCaptures/
+Logs/
+
+# ====================================================
+# Configuraciones Locales
+# ====================================================
+# Estos archivos contienen configuraciones específicas de tu máquina
+# o de la instalación de Unity, y pueden causar conflictos en otros equipos.
+
+# Configuración del proyecto de la solución Visual Studio / Rider
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.DS_Store
+*.gz
+*.zip
+*.fbx.meta
+*.meta
+
+# ====================================================
+# Archivos del Sistema Operativo
+# ====================================================
+
+# macOS
+.DS_Store
+
+# Windows / Visual Studio
+Thumbs.db
+Desktop.ini
+
+# ====================================================
+# Archivos Ignorados Opcionales (Recomendados)
+# ====================================================
+
+# Archivos de caché del IDE (Rider, VS Code, etc.)
+.vs/
+.idea/
+
+# Carpetas de Paquetes (Si usas Unity Package Manager fuera de la carpeta Assets)
+/Packages/
+
+# Archivos de la nube o servicios de terceros (ej: GitHub Desktop)
+.assetstore
